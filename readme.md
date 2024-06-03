@@ -1,3 +1,5 @@
+# Fuel Economy Data Analysis
+
 # Table of contents : 
 * Know Data Attributes
 * Ask Questions
@@ -46,9 +48,4 @@ For better understanding of the dataset, you can refer the Green Vehicle Guide D
 * SmartWay	Yes, No, or Elite
 * Comb CO2*	Combined city/highway CO2 tailpipe emissions in grams per mile
 
-"*"  means  Not included in 2008 dataset
-"**"  means Not included in 2018 dataset
 
-
-
-"# Fuel_Economy_Data_Analysis" 
